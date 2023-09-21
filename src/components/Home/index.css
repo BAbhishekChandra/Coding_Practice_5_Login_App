@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-container {
+}
